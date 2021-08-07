@@ -5,5 +5,5 @@ Web Engenner
 - [github](https://github.com/iwatos)
 - [zenn](https://zenn.dev/iwatos)
 - [qiita](https://qiita.com/iwato)
-- [twitter](https://twitter.com/iwato_s)
+- [twitter](https://twitter.com/IwatoS2)
 - [note](https://note.com/iwato_s)
