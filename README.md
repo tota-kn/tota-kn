@@ -1,3 +1,3 @@
-# Profile
-Web Engenner
-[Quartz <iwato's knowledge management>](https://iwatos.github.io/publish/)
+Web Engenner in Japanese
+
+[Spilit Quartz ~ Iwato's note ~](https://iwatos.github.io/publish/)
