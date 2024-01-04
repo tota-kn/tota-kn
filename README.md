@@ -1,3 +1,3 @@
 Web Engenner in Japanese
 
-[tota note](https://tota-kn.github.io/publish/)
+[tota note](https://note.totakn.com/)
