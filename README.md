@@ -1,3 +1,3 @@
-Web Engenner in Japanese
+Web Engineer in Japanese
 
 [tota note](https://note.totakn.com/)
